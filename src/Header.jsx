@@ -27,26 +27,6 @@ const SmallNav = styled.div`
   }
 `;
 
-const MainTitle = styled.div`
-  position: absolute;
-  font-weight: 900;
-  font-size: 90px;
-  width: 1000px;
-  transform: translate(-50%, -50%);
-  top: 50%;
-  left: 50%;
-  z-index: 99;
-  color: white;
-  text-align: left;
-`;
-
-const SubTitle = styled.div`
-  font-size: 20px;
-  padding-left: 48px;
-  margin-top: 20px;
-  color: rgba(0, 0, 0, 0.6);
-`;
-
 export default function Header() {
   return (
     <div>
