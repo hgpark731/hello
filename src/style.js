@@ -15,9 +15,7 @@ ${reset}
 a{
     text-decoration : none;
 }
-div{
-    text-align : center;
-}
+
 body{
     font-family:'Pretendard-Regular';
 }
